@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Booksy-Group11/",
+    "build": "vite build --base=/js_120_RomIvaNeirity/",
     "preview": "vite preview"
   },
   "devDependencies": {
